@@ -1,6 +1,6 @@
 # Nộp bài buổi 5a
 
-A new Flutter project.
+Plant App
 
 ## Getting Started
 
